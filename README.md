@@ -1,6 +1,8 @@
 # Learning Data Mesh
 
-Repo with resources for learning Data Mesh implementations and patterns  
+<img src="xxx" width=800>
+
+Repo with resources for learning Data Mesh implementations and patterns - image from [link](https://www.k2view.com/platform/data-mesh-architecture/)
 
 NOTE: To request to join the **upcoming book club**, please DM me with your email (for a Slack invite) on Linked In.  The first book will be 'O'Reilly's "Data Mesh" (link below)
 
