@@ -2,15 +2,14 @@
 
 Repo with resources for learning Data Mesh implementations and patterns  
 
-NOTE: To request to join the upcomming book club, please DM me with your email (for a Slack invite) on Linked In.
+NOTE: To request to join the **upcoming book club**, please DM me with your email (for a Slack invite) on Linked In.  The first book will be 'O'Reilly's "Data Mesh" (link below)
 
 ## Links
-
-- Substack Article "Getting Started with Data Mesh" - [link](https://datameshlearning.substack.com/p/get-started-with-data-mesh)
-- DataMesh Learning, community site - [link](https://datameshlearning.com/)
-- Book "Data Mesh: Delivering Data-Driven Value at Scale" - [link](https://www.amazon.com/Data-Mesh-Delivering-Data-Driven-Value/dp/1492092398)
-- Example architecture patterns at `datamesh-architecture.com` - [link](https://github.com/datamesh-architecture/datamesh-architecture.com)
-- List of links `awesome-datamesh` on GitHub - [link](https://github.com/JacekMajchrzak/awesome-datamesh)
+- 📘 Book "Data Mesh: Delivering Data-Driven Value at Scale" - [link](https://www.amazon.com/Data-Mesh-Delivering-Data-Driven-Value/dp/1492092398)
+- 🔖 Substack Article "Getting Started with Data Mesh" - [link](https://datameshlearning.substack.com/p/get-started-with-data-mesh)
+- 🔖 DataMesh Learning, community site - [link](https://datameshlearning.com/)
+- 📚Example architecture patterns at `datamesh-architecture.com` - [link](https://github.com/datamesh-architecture/datamesh-architecture.com)
+- 🔖 List of links `awesome-datamesh` on GitHub - [link](https://github.com/JacekMajchrzak/awesome-datamesh)
 
 ## Cloud Data Mesh Patterns
 
