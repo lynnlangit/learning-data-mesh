@@ -1,6 +1,6 @@
 # Learning Data Mesh
 
-<img src="xxx" width=800>
+<img src="https://github.com/lynnlangit/learning-data-mesh/blob/main/images/mesh.png" width=400 align=right>
 
 Repo with resources for learning Data Mesh implementations and patterns - image from [link](https://www.k2view.com/platform/data-mesh-architecture/)
 
