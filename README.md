@@ -1,6 +1,8 @@
 # Learning Data Mesh
 
-Repo with resources for learning Data Mesh implementations and patterns
+Repo with resources for learning Data Mesh implementations and patterns  
+
+NOTE: To request to join the upcomming book club, please DM me with your email (for a Slack invite) on Linked In.
 
 ## Links
 
