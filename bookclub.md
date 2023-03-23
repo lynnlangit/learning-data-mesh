@@ -15,3 +15,4 @@ This Repo is a home for resources related to this bookclub, it includes the foll
 
 Name / background / interest areas
 - **Lynn Langit** / Cloud Architect / cloud Data Mesh for Genomics
+- **Matt Penner** / Chief Technology Officer in Education / DevOps & Data as a Product
