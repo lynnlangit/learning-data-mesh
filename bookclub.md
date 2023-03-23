@@ -10,7 +10,7 @@ This Repo is a home for resources related to this bookclub, it includes the foll
 - Regular **meetings** (and recorded / posted to [YouTube](https://www.youtube.com/playlist?list=PL4Q4HssKcxYunGOPCphuUmilOhIrN-JUq))
 - **Slack** (for more discussion) - message Lynn via LinkedIn with your email for a Slack invite
 - **Code / patterns** info/examples (in this Repo) - group is interested in cloud demos
-    - Lynn - GCP, some AWS
+    - GCP - Lynn 
     - AWS - several people
     - Azure - several people
 
