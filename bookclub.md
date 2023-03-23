@@ -12,7 +12,7 @@ This Repo is a home for resources related to this bookclub, it includes the foll
 - **Code / patterns** info/examples (in this Repo) - group is interested in cloud demos
     - GCP / DataPlex - Lynn 
     - AWS / Lake Formation - several people
-    - Azure - several people
+    - Azure / Synapse - several people
 
 ## Participants
 
