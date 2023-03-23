@@ -4,7 +4,7 @@
 - Community discussion chapter-by-chapter O'Reilly book 'Data Mesh'
 - Code / pattern examples (this Repo)
 
-## Members
+## Participants
 
-Members / background / interest areas
+Name / background / interest areas
 - Lynn Langit / Cloud Architect / cloud Data Mesh for Genomics
