@@ -7,8 +7,10 @@
 This Repo is a home for resources related to this bookclub, it includes the following...
 
 - **Community discussion** chapter-by-chapter O'Reilly book ['Data Mesh'](https://www.oreilly.com/library/view/data-mesh/9781492092384/)
-- Regular **meetings** (and recorded / posted to [YouTube](https://www.youtube.com/playlist?list=PL4Q4HssKcxYunGOPCphuUmilOhIrN-JUq))
-- **Slack** (for more discussion) - message Lynn via LinkedIn with your email for a Slack invite
+- Regular online **meetings** 
+    - recorded / posted to [YouTube](https://www.youtube.com/playlist?list=PL4Q4HssKcxYunGOPCphuUmilOhIrN-JUq))
+- **Slack** (for more discussion) 
+    - message Lynn via LinkedIn with your email for a Slack invite
 - **Code / patterns** info/examples (in this Repo) - group is interested in cloud demos
     - GCP / DataPlex - Lynn 
     - AWS / Lake Formation - several people
@@ -20,8 +22,8 @@ Name / background / interest areas
 - **Lynn Langit** / Cloud Architect / cloud Data Mesh for Genomics
 - **Matt Penner** / Chief Technology Officer in Education / DevOps & Data as a Product
 
-## Meetings
-- Book Prologue - complete
+## Meetings  + Resources
+- Book Prologue - complete (recording posted to YouTube playlist - linked above)
 - Ch1: DataMesh in a Nutshell - scheduled
 - Ch2: Domain Ownership
 - Ch3: Data as a Product
