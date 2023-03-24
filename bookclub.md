@@ -19,3 +19,22 @@ This Repo is a home for resources related to this bookclub, it includes the foll
 Name / background / interest areas
 - **Lynn Langit** / Cloud Architect / cloud Data Mesh for Genomics
 - **Matt Penner** / Chief Technology Officer in Education / DevOps & Data as a Product
+
+## Meetings
+- Book Prologue - complete
+- Ch1: DataMesh in a Nutshell - scheduled
+- Ch2: Domain Ownership
+- Ch3: Data as a Product
+- Ch4: Self-service Data Platform
+- Ch5: Federated Governance
+- Ch6: At Inflection Point
+- Ch7: After Inflection
+- Ch8: Before Inflection
+- Ch9: Logical Architecture
+- Ch10: Multiplane Journey
+- Ch11: Design Data Products
+- Ch12: Design Consume, Tranform and Consume Data
+- Ch13: Design Discover, Understand and Compose Data
+- Ch14: Design Manage, Govern and Observe Data
+- Ch15: Strategy and Execution
+- Ch16: Organization and Culture
