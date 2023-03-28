@@ -14,6 +14,11 @@ NOTE: To request to join the currently running **book club**, please DM me with 
 - 📚Example architecture patterns at `datamesh-architecture.com` - [link](https://github.com/datamesh-architecture/datamesh-architecture.com)
 - 🔖 List of links `awesome-datamesh` on GitHub - [link](https://github.com/JacekMajchrzak/awesome-datamesh)
 
+### Core Patterns
+Image from linked talk (above), shows 4 key prinicipals of data mesh as described by Zhamak Dehgani:  
+
+<img src="https://github.com/lynnlangit/learning-data-mesh/blob/main/images/data-mesh-4.png" width=800>
+
 ## Cloud Data Mesh Patterns
 
 ### GCP DataMesh
