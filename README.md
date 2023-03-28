@@ -6,8 +6,9 @@ Repo with resources for learning Data Mesh implementations and patterns - image 
 
 NOTE: To request to join the currently running **book club**, please DM me with your email (for a Slack invite) on Linked In.  The first book will be 'O'Reilly's "Data Mesh" (link below)
 
-## Links
+### Core Links
 - 📘 Book "Data Mesh: Delivering Data-Driven Value at Scale" - [link](https://www.amazon.com/Data-Mesh-Delivering-Data-Driven-Value/dp/1492092398)
+- :tv: Talk "Data Mesh, Now – Zhamak Dehgani" 30 minutes - [link](https://www.youtube.com/watch?v=VKDMz8op3VM)
 - 🔖 Substack Article "Getting Started with Data Mesh" - [link](https://datameshlearning.substack.com/p/get-started-with-data-mesh)
 - 🔖 DataMesh Learning, community site - [link](https://datameshlearning.com/)
 - 📚Example architecture patterns at `datamesh-architecture.com` - [link](https://github.com/datamesh-architecture/datamesh-architecture.com)
