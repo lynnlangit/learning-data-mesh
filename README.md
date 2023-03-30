@@ -28,6 +28,7 @@ Image from linked talk (above), shows 4 key prinicipals of data mesh as describe
 ### AWS DataMesh
 - AWS Docs *"Data Mesh w/Lake Formation and AWS Glue"* - blog at [link](https://aws.amazon.com/blogs/big-data/design-a-data-mesh-architecture-using-aws-lake-formation-and-aws-glue/)
 - AWS Blog *"Architecting a DataMesh"* - [link](https://aws.amazon.com/blogs/architecture/lets-architect-architecting-a-data-mesh/)
+- AWS Announcement *"Amazon DataZones"* - [link](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-amazon-datazone-preview/)
 
 ### Azure DataMesh
 - Azure Medium article *"Building a Data Mesh on Azure"* - [link](https://medium.com/codex/building-a-data-mesh-on-microsoft-azure-2eb533b5b834)
