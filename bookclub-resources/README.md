@@ -8,4 +8,4 @@ This folder is the location for resources associated with weekly bookclub meetin
 ## AWS DataZone
 - Set of services to implement DataMesh on AWS - their page (and graphic below) --> [link](https://docs.aws.amazon.com/datazone/latest/userguide/what-is-datazone.html)
 
-<img src="xxx" width=800>
+<img src="https://github.com/lynnlangit/learning-data-mesh/blob/main/images/aws-datazone.png" width=800>
