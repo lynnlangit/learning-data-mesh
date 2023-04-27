@@ -1,9 +1,11 @@
 # Learning Data Mesh
 
-- :tv: YouTube Playlist of our bookclub meetings --> [link](https://www.youtube.com/playlist?list=PL4Q4HssKcxYunGOPCphuUmilOhIrN-JUq)
+- :tv: YouTube Playlist of our bookclub meetings (each meeting is ~1 hr) --> [link](https://www.youtube.com/playlist?list=PL4Q4HssKcxYunGOPCphuUmilOhIrN-JUq)
     - Intro to bookclub - 4 min
-    - Ch0 - Prologue - 58 min
-    - Ch1 - pt1 - DataMesh in a Nutshell - 58 min
+    - Ch0 - Prologue
+    - Ch1:pt1 - DataMesh in a Nutshell
+    - Ch1:pt2 - DataMesh in a Nutshell w/ intro demo to GCP DataPlex
+    - Ch2 - Principle of Domain Ownership **next**
 
 <img src="https://github.com/lynnlangit/learning-data-mesh/blob/main/images/mesh.png" width=400 align=right>
 
