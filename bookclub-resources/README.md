@@ -20,5 +20,6 @@ This folder is the location for resources associated with weekly bookclub meetin
 ## Azure Synapse Analytics + DataMesh Architecture
 
 - Guidance from Microsoft (and architecture image shown below) --> [link](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/cloud-scale-analytics/architectures/what-is-data-mesh)
+- Getting started checklish - [link](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/cloud-scale-analytics/architectures/data-mesh-checklist)
 
 <img src="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/cloud-scale-analytics/media/azure-analytics-end-to-end.png#lightbox" width=1000>
