@@ -3,8 +3,8 @@
 - :tv: YouTube Playlist of our bookclub meetings (each meeting is ~1 hr) --> [link](https://www.youtube.com/playlist?list=PL4Q4HssKcxYunGOPCphuUmilOhIrN-JUq)
     - Intro to bookclub - 4 min
     - Ch 0 - Prologue
-    - Ch 1:pt1 - DataMesh in a Nutshell
-    - Ch 1:pt2 - DataMesh in a Nutshell w/ intro demo to GCP DataPlex
+    - Ch 1 (pt1) - DataMesh in a Nutshell
+    - Ch 1 (pt2) - DataMesh in a Nutshell w/ intro demo to GCP DataPlex
     - Ch 2 - Principle of Domain Ownership w/ intro demo to AWS DataZone
     - Ch 3 - Data as a Product **next**
 
