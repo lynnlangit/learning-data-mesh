@@ -9,3 +9,9 @@ This folder is the location for resources associated with weekly bookclub meetin
 - Set of services to implement DataMesh on AWS - their page (and graphic below) --> [link](https://docs.aws.amazon.com/datazone/latest/userguide/what-is-datazone.html)
 
 <img src="https://github.com/lynnlangit/learning-data-mesh/blob/main/images/aws-datazone.png" width=800>
+
+## Azure Synapse Analytics + DataMesh Architecture
+
+- Guidance from Microsoft (and architecture image shown below) --> [link](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/cloud-scale-analytics/architectures/what-is-data-mesh)
+
+<img src="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/cloud-scale-analytics/media/azure-analytics-end-to-end.png#lightbox" width=1000>
