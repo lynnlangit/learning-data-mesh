@@ -13,8 +13,8 @@ This folder is the location for resources associated with weekly bookclub meetin
 
 ## AWS DataZone
 - Set of services to implement DataMesh on AWS - their page (and graphic below) --> [link](https://docs.aws.amazon.com/datazone/latest/userguide/what-is-datazone.html)
-- Focus on S3, Redshift as storage locations
-- Focus on AWS Glue (metadata/schema catalog)
+- Focus on S3 , Redshift as storage locations
+- Focus on AWS Glue (metadata/schema catalog), LakeFormation (data lake, permissions)
 <img src="https://github.com/lynnlangit/learning-data-mesh/blob/main/images/aws-datazone.png" width=800>
 
 ## Azure Synapse Analytics + DataMesh Architecture
