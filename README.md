@@ -6,7 +6,8 @@
     - Ch 1 (pt1) - DataMesh in a Nutshell
     - Ch 1 (pt2) - DataMesh in a Nutshell w/ intro demo to GCP DataPlex
     - Ch 2 - Principle of Domain Ownership w/ intro demo to AWS DataZone
-    - Ch 3 - Data as a Product **next**
+    - Ch 3 - Data as a Product
+    - Ch 4 (pt1) - Self-serve data platform
 
 <img src="https://github.com/lynnlangit/learning-data-mesh/blob/main/images/mesh.png" width=400 align=right>
 
