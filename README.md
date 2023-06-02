@@ -1,6 +1,6 @@
 # Learning Data Mesh
 
-- :tv: YouTube Playlist of our bookclub meetings (each meeting is ~1 hr) --> [link](https://www.youtube.com/playlist?list=PL4Q4HssKcxYunGOPCphuUmilOhIrN-JUq)
+- :tv: YouTube Playlist of our bookclub meetings (each meeting is ~1 hr) --> [link](https://www.youtube.com/playlist?list=PL4Q4HssKcxYunGOPCphuUmilOhIrN-JUq), each weekly meeting is around one hour long.
     - Intro to bookclub - 4 min
     - Ch 0 - Prologue
     - Ch 1 (pt1) - DataMesh in a Nutshell
@@ -8,6 +8,7 @@
     - Ch 2 - Principle of Domain Ownership w/ intro demo to AWS DataZone
     - Ch 3 - Data as a Product
     - Ch 4 (pt1) - Self-serve data platform
+    - Ch 4 (pt2) - Self-serve data platform
 
 <img src="https://github.com/lynnlangit/learning-data-mesh/blob/main/images/mesh.png" width=400 align=right>
 
