@@ -10,6 +10,7 @@
     - Ch 4 (pt1) - Self-serve data platform
     - Ch 4 (pt2) - Self-serve data platform
     - Ch 5 - Federated Computational Governance w/discussion of GCP Organizational Hierarchies
+    - Ch 6/7/8 - "Why Data Mesh?"
 
 <img src="https://github.com/lynnlangit/learning-data-mesh/blob/main/images/mesh.png" width=400 align=right>
 
