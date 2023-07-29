@@ -11,6 +11,7 @@
     - Ch 4 (pt2) - Self-serve data platform
     - Ch 5 - Federated Computational Governance w/discussion of GCP Organizational Hierarchies
     - Ch 6/7/8 - "Why Data Mesh?"
+    - Ch 9 - "The Logical Architecture" w/ demo of GCP DataPlex Data Catalog
 
 <img src="https://github.com/lynnlangit/learning-data-mesh/blob/main/images/mesh.png" width=400 align=right>
 
