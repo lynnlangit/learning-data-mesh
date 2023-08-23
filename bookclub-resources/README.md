@@ -16,7 +16,7 @@ This folder is the location for resources associated with weekly bookclub meetin
 - Focus on S3 , Redshift as storage locations
 - Focus on AWS Glue (metadata/schema catalog), LakeFormation (data lake, permissions)
 <img src="https://github.com/lynnlangit/learning-data-mesh/blob/main/images/aws-datazone.png" width=800>
-- AWS Examples from AWS Blog (for events, data-at-rest & combined architecture) --> [link](https://aws.amazon.com/blogs/big-data/design-a-data-mesh-with-event-streaming-for-real-time-recommendations-on-aws)
+- AWS Architectures from AWS Blog (for events, data-at-rest & combined architectures) --> [link](https://aws.amazon.com/blogs/big-data/design-a-data-mesh-with-event-streaming-for-real-time-recommendations-on-aws)
 
 ## Azure Synapse Analytics + DataMesh Architecture
 
