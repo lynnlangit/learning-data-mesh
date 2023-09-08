@@ -12,6 +12,7 @@
     - Ch 5 - Federated Computational Governance w/discussion of GCP Organizational Hierarchies
     - Ch 6/7/8 - "Why Data Mesh?"
     - Ch 9 - "The Logical Architecture" w/ demo of GCP DataPlex Data Catalog
+    - Ch 10 - Design for Users w/demo of AWS DataZone and of ChatGPT Advanced Data Analytics
 
 <img src="https://github.com/lynnlangit/learning-data-mesh/blob/main/images/mesh.png" width=400 align=right>
 
