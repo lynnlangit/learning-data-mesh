@@ -13,6 +13,8 @@
     - Ch 6/7/8 - "Why Data Mesh?"
     - Ch 9 - "The Logical Architecture" w/ demo of GCP DataPlex Data Catalog
     - Ch 10 - Design for Users w/demo of AWS DataZone and of ChatGPT Advanced Data Analytics
+    - Ch 11/Ch 12 (pt1) - Design Data Products
+    - Ch 12 (pt2) - Design Consuming, Transforming, Serving Data w/demo of GCP transform job scaling architectures
 
 <img src="https://github.com/lynnlangit/learning-data-mesh/blob/main/images/mesh.png" width=400 align=right>
 
